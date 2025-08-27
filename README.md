@@ -1,41 +1,78 @@
+# 📊 HR Analytics Dashboard | Power BI
 
-# 📊 HR Analytics Dashboard (Power BI)
-
-An interactive **HR Dashboard** built with **Power BI** to analyze workforce data and support data-driven decisions.  
-
----
-
-## 🚀 Features
-- 👥 Total Employees with Gender Distribution  
-- 📈 Promotions vs Non-Promotions  
-- ⏳ Service Years Analysis  
-- 🏢 Employee Job Levels  
-- 🔄 Active vs Retrenched Employees  
-- 🌍 Distance Status (Very Close, Close, Very Far)  
-- 😊 Job Satisfaction Levels  
-- ⏰ Overtime Analysis  
-- 📋 Detailed Employee-level Insights  
+An interactive **HR Dashboard** built with **Power BI** to analyze workforce data and support HR decision-making.  
 
 ---
 
-## 📸 Screenshots
-| | Home | Details | Action |
-|----------|------------|--------------------------|
-| ![](screenshots/Home.png) | ![](screenshots/Details.png) | ![](screenshots/Action.png) |
+## 📌 Project Overview
+This dashboard provides insights into **employee demographics, job satisfaction, promotions, and retention trends**.  
+It enables HR managers to make **data-driven decisions** about workforce management.  
 
 ---
 
-## 📂 Files
-- `HR_Dashboard.pbix` → Main Power BI file.  
-- `Data/` → Dataset used in the dashboard (if shareable).  
-- `screenshots/` → Contains dashboard preview images.  
+## 🚀 Key Features
+- 👥 **Employee Demographics**  
+  - Total employees: 1,470  
+  - Gender distribution (60% Male, 40% Female)  
+
+- 🎯 **Promotion Analysis**  
+  - Due for promotion: 72 employees  
+  - Not due: 1,398 employees  
+
+- ⏳ **Service Years Distribution**  
+  - Employee counts across 1–10 years of service  
+
+- 🏢 **Job Levels**  
+  - Breakdown from Level 1 to Level 5  
+
+- 🔄 **Employment Status**  
+  - Active: 1,353  
+  - Retrenched: 117  
+
+- 🌍 **Distance Status**  
+  - Very Close, Close, Very Far  
+
+- 😊 **Job Satisfaction**  
+  - High, Medium, Low levels  
+
+- ⏰ **Overtime Analysis**  
+  - 72% No Overtime  
+  - 28% Overtime  
+
+- 📋 **Detailed Employee Insights**  
+  - Names of employees due for promotion  
+  - Names of employees marked for retrenchment  
 
 ---
 
-## 🛠️ Tools Used
-- Power BI Desktop  
-- Data Modeling (DAX)  
-- Excel / CSV (as data source)  
+## 📸 Dashboard Previews
+
+### 🔹 Home
+![](screenshots/Home.png)
+
+### 🔹 Details
+![](screenshots/Details.png)
+
+### 🔹 Action
+![](screenshots/Action.png)
+
+
+---
+
+## 📂 Files in this Repository
+- `HR_Dashboard.pbix` → Main Power BI dashboard file.  
+- `Data/` → (Optional) dataset used to build the dashboard.  
+- `screenshots/` → Preview images of the dashboard.  
+- `README.md` → Project documentation.  
+
+---
+
+## 🛠️ Tools & Technologies
+- **Power BI Desktop**  
+- **Data Modeling with DAX**  
+- **Excel / CSV** (as data sources)  
+
+---
 
 ---
 
