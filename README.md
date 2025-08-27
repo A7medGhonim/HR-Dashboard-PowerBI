@@ -19,9 +19,9 @@ An interactive **HR Dashboard** built with **Power BI** to analyze workforce dat
 ---
 
 ## 📸 Screenshots
-| Overview | Job Levels | Satisfaction & Overtime |
+| | Home | Details | Action |
 |----------|------------|--------------------------|
-| ![](screenshots/overview.png) | ![](screenshots/job_levels.png) | ![](screenshots/satisfaction.png) |
+| ![](screenshots/Home.png) | ![](screenshots/Details.png) | ![](screenshots/Action.png) |
 
 ---
 
